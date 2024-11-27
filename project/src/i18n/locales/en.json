@@ -1,0 +1,41 @@
+{
+  "header": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "enterprise": "Enterprise",
+    "signin": "Sign In",
+    "getStarted": "Get Started"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "createAccount": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "orContinueWith": "Or continue with",
+    "loginSuccess": "Successfully signed in",
+    "loginError": "Failed to sign in",
+    "registerSuccess": "Successfully registered",
+    "registerError": "Failed to register",
+    "passwordMismatch": "Passwords do not match"
+  },
+  "upload": {
+    "title": "Upload Video",
+    "dragDrop": "Drag and drop your video here, or",
+    "browse": "browse",
+    "pasteLink": "Paste video link",
+    "import": "Import",
+    "cancel": "Cancel",
+    "supports": "Supports MP4, WebM, MOV up to 1GB",
+    "processing": "Processing...",
+    "placeholder": "Paste your YouTube, TikTok, or other video link",
+    "success": "Video uploaded successfully",
+    "error": "Failed to upload video"
+  },
+  "dashboard": {
+    "title": "My Projects",
+    "newProject": "New Project",
+    "noProjects": "No projects",
+    "startCreating": "Start by creating a new project"
+  }
+}

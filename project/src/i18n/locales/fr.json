@@ -1,0 +1,41 @@
+{
+  "header": {
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "enterprise": "Entreprise",
+    "signin": "Connexion",
+    "getStarted": "Commencer"
+  },
+  "auth": {
+    "signIn": "Connexion",
+    "createAccount": "Créer un compte",
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "orContinueWith": "Ou continuer avec",
+    "loginSuccess": "Connexion réussie",
+    "loginError": "Erreur de connexion",
+    "registerSuccess": "Inscription réussie",
+    "registerError": "Erreur lors de l'inscription",
+    "passwordMismatch": "Les mots de passe ne correspondent pas"
+  },
+  "upload": {
+    "title": "Importer une vidéo",
+    "dragDrop": "Glissez et déposez votre vidéo ici, ou",
+    "browse": "parcourir",
+    "pasteLink": "Coller un lien vidéo",
+    "import": "Importer",
+    "cancel": "Annuler",
+    "supports": "Formats supportés : MP4, WebM, MOV jusqu'à 1GB",
+    "processing": "Traitement en cours...",
+    "placeholder": "Collez le lien de votre vidéo YouTube, TikTok, ou autre",
+    "success": "Vidéo importée avec succès",
+    "error": "Erreur lors de l'importation de la vidéo"
+  },
+  "dashboard": {
+    "title": "Mes Projets",
+    "newProject": "Nouveau Projet",
+    "noProjects": "Aucun projet",
+    "startCreating": "Commencez par créer un nouveau projet"
+  }
+}
